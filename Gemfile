@@ -3,15 +3,15 @@
 source 'https://rubygems.org'
 ruby '2.5.0'
 
-gem 'airbrake', '~> 7.4'
-gem 'devise', '~> 4.5'
+gem 'airbrake', '~> 8.1'
+gem 'devise', '~> 4.6'
 gem 'geokit', '~> 1.13'
 gem 'haml', '~> 5.0'
 gem 'http_accept_language', '~> 2.0'
 gem 'local_time', '~> 2.1'
 gem 'obscenity', '~> 1.0', '>= 1.0.2'
 gem 'pg'
-gem 'rails', '~> 5.2.1'
+gem 'rails', '~> 5.2.2'
 gem 'rails_admin', '~> 1.4'
 gem 'validates_formatting_of', '~> 0.9.0'
 
